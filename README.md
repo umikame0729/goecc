@@ -1,0 +1,2 @@
+# goecc
+Golang Embedded OpenCC
