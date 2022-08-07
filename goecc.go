@@ -1,4 +1,4 @@
-package oc
+package goecc
 
 import (
 	"embed"
